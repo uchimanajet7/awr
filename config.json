@@ -1,0 +1,19 @@
+{
+	"URL": "https://docs.aws.amazon.com/ja_jp/general/latest/gr/glos-chap.html",
+	"Rules": [
+		{
+			"Expected": "AWS マネジメントコンソール",
+			"Patterns": [
+				"AWS マネージメントコンソール",
+				"AWS Management Console"
+			]
+		},
+		{
+			"Expected": "アマゾン ウェブ サービス",
+			"Patterns": [
+				"Amazon Web Services",
+				"Amazon Web Service"
+			]
+		}
+	]
+}
