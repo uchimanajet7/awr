@@ -73,7 +73,7 @@ However, setting is necessary to execute.
 		- `Patterns`: Array
 			- Write an array of the character strings you want to match with the check.
 
-#### Please edit the output `aws_words.yaml` directly if you want to do fine editing.
+#### Please edit the output `aws_words.yml` directly if you want to do fine editing.
 
 ## Installation
 
@@ -86,10 +86,10 @@ $ go build
 ```
 
 ### When using only YAML file
-Download `aws_words.yaml` from the repository and specify it in the phr configuration file.
+Download `aws_words.yml` from the repository and specify it in the phr configuration file.
 
-- awr/aws_words.yaml at master · uchimanajet7/awr 
-	- https://github.com/uchimanajet7/awr/blob/master/aws_words.yaml
+- awr/aws_words.yml at master · uchimanajet7/awr 
+	- https://github.com/uchimanajet7/awr/blob/master/aws_words.yml
 
 ***see also:***
 
